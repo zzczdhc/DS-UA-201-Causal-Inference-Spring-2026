@@ -1,2 +1,1 @@
-# Causal Inference — Recitation (Spring 2026)
-Folders: week1, week2, week3, ...
+DS-UA 201 Causal Inference (Fall 2025)
